@@ -78,7 +78,7 @@ topright_text.style.textAlign = "center";
 
 let bottomleft_text = document.createElement("p");
 bottomleft_text.textContent = "This has yellow background color";
-bottomleft_text.style.color = "white";
+bottomleft_text.style.color = "black";
 bottomleft_text.style.textAlign = "center";
 
 let bottomright_text = document.createElement("p");
